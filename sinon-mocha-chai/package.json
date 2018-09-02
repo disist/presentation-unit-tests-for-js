@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test": "mocha example.test.js",
-        "watch": "mocha example.test.js --watch --inspect"
+        "test:watch": "mocha example.test.js --watch --inspect"
     },
     "author": "",
     "license": "ISC",
