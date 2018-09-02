@@ -1,0 +1,16 @@
+{
+    "name": "jest-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest example.test.js",
+        "test:watch": "jest example.test.js --watch"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^23.5.0"
+    },
+    "dependencies": {}
+}
